@@ -1,0 +1,26 @@
+C:\SelaCollege\Night Lessons With Roy\SpecialSorts\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\SelaCollege\Night Lessons With Roy\SpecialSorts\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\SelaCollege\Night Lessons With Roy\SpecialSorts\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\SelaCollege\Night Lessons With Roy\SpecialSorts\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\SelaCollege\Night Lessons With Roy\SpecialSorts\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\SelaCollege\Night Lessons With Roy\SpecialSorts\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\SelaCollege\Night Lessons With Roy\SpecialSorts\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\SelaCollege\Night Lessons With Roy\SpecialSorts\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\SelaCollege\Night Lessons With Roy\SpecialSorts\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\SelaCollege\Night Lessons With Roy\SpecialSorts\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\SelaCollege\Night Lessons With Roy\SpecialSorts\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\SelaCollege\Night Lessons With Roy\SpecialSorts\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\SelaCollege\Night Lessons With Roy\SpecialSorts\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+\\Mac\Home\Desktop\CsLinearSort\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+\\Mac\Home\Desktop\CsLinearSort\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+\\Mac\Home\Desktop\CsLinearSort\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+\\Mac\Home\Desktop\CsLinearSort\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+\\Mac\Home\Desktop\CsLinearSort\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+\\Mac\Home\Desktop\CsLinearSort\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+\\Mac\Home\Desktop\CsLinearSort\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\CsLinearSort\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\CsLinearSort\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+\\Mac\Home\Desktop\CsLinearSort\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\CsLinearSort\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+\\Mac\Home\Desktop\CsLinearSort\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+\\Mac\Home\Desktop\CsLinearSort\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
